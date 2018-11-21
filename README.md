@@ -4,4 +4,4 @@ Simple lambda function that can exectute actions based on an event. Supported ac
 
 Author: Filipe Luciano
 
-Merged
+Merged 2
